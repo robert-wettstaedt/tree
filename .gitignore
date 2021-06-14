@@ -29,7 +29,6 @@ dist
 build
 /coverage
 yarn.lock
-es/
 !tests/__mocks__/rc-util/lib
 # umi
 .umi
